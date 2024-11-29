@@ -2,6 +2,9 @@
 
 Fast Excel Hex Analyzer is a program for Microsoft Excel that allows you to view files in HEX format, quickly navigate through data, and perform color highlighting on desired bytes.
 
+![image](https://github.com/user-attachments/assets/effa4659-0126-4fce-8f16-ecc065287d06)
+
+
 ---
 
 ## Features
